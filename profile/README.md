@@ -37,7 +37,7 @@ Nimrod Carmon (he/him)<br>
 Technical contributor for data processing, validation/verification, and hyperspectral resampling<br>
 NASA Jet Propulsion Laboratory 398L
 
-### Abstract
+## Abstract
 
 STARS is a general data fusion methodology utilizing spatiotemporal statistical models to optimally combine high spatial resolution VSWIR measurements with high temporal resolution measurements from multiple instruments. The methods are highly-scalable, able to fuse <100 m spatial resolution products in near-real time (<24 hrs) on regional to global scales, to facilitate online data processing as well as large-scale reprocessing of mission datasets. The statistical spatiotemporal modeling framework provides with each fused surface reflectance product associated pixel-level uncertainties incorporating any known data source measurement uncertainties, bias characteristics, and degree of historical data missingness. 
 
@@ -47,4 +47,15 @@ The specific capabilities offered by STARS are:
 3. quantifiable uncertainties that can be used for downstream product sensitivity/uncertainty assessments and that can be incorporated into higher-order data product quality flags. 
 
 STARS is a significant advancement for surface reflectance data fusion and for quantifying (and potentially reducing) the uncertainty associated with satellite-derived inputs in retrievals of science quantities of interest.
+
+## Packages
+
+The Julia implementation for the STARS data fusion algorithm is in [STARS.jl](https://github.com/STARS-Data-Fusion/STARS.jl).
+
+There are several supporting sub-components in generalized Julia packages, including:
+
+- [SentinelTiles.jl](https://github.com/STARS-Data-Fusion/SentinelTiles.jl) for geo-referencing Sentinel UTM tiles
+- [MODLAND.jl](https://github.com/STARS-Data-Fusion/MODLAND.jl) for geo-referencing MODIS/VIIRS sinusoidal tiles
+- [CMR.jl](https://github.com/STARS-Data-Fusion/CMR.jl) for searching the Common Metadata Repository (CMR)
+- [HLS.jl](https://github.com/STARS-Data-Fusion/HLS.jl) for searching and downloading the Harmonized Landsat Sentinel (HLS) dataset
 
