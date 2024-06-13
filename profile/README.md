@@ -7,7 +7,7 @@ Margaret C. Johnson (she/her)<br>
 Principal investigator: lead of data fusion methodological development and Julia code implementations.<br>
 NASA Jet Propulsion Laboratory 398L
 
-Gregory H. Halverson (they/them)<br>
+[Gregory H. Halverson](https://github.com/gregory-halverson-jpl) (they/them)<br>
 [gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
 Lead developer for data processing pipeline design and development, moving window implementation, and code organization and management.<br>
 NASA Jet Propulsion Laboratory 329G
