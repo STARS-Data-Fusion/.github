@@ -2,37 +2,37 @@
 
 Spatial Timeseries for Automated high-Resolution multi-Sensor data fusion (STARS)
 
-Margaret C. Johnson (she/her)<br>
+Margaret C. Johnson<br>
 [maggie.johnson@jpl.nasa.gov](mailto:maggie.johnson@jpl.nasa.gov)<br>
 Principal investigator: lead of data fusion methodological development and Julia code implementations.<br>
 NASA Jet Propulsion Laboratory 398L
 
-[Gregory H. Halverson](https://github.com/gregory-halverson-jpl) (they/them)<br>
+[Gregory H. Halverson](https://github.com/gregory-halverson-jpl)<br>
 [gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
 Lead developer for data processing pipeline design and development, moving window implementation, and code organization and management.<br>
 NASA Jet Propulsion Laboratory 329G
 
-Jouni I. Susiluoto (he/him)<br>
+Jouni I. Susiluoto<br>
 [jouni.i.susiluoto@jpl.nasa.gov](mailto:jouni.i.susiluoto@jpl.nasa.gov)<br>
 Technical contributor for methodology development, co- developer of Julia code for Kalman filtering recursion.
 NASA Jet Propulsion Laboratory 398L
 
-Kerry Cawse-Nicholson (she/her)<br>
+Kerry Cawse-Nicholson<br>
 [kerry-anne.cawse-nicholson@jpl.nasa.gov](mailto:kerry-anne.cawse-nicholson@jpl.nasa.gov)<br>
 Concept development and project management. Advised on technical and scientific requirements for application and mission integration.<br>
 NASA Jet Propulsion Laboratory 329G
 
-Joshua B. Fisher (he/him)<br>
+Joshua B. Fisher<br>
 [jbfisher@chapman.edu](mailto:jbfisher@chapman.edu)<br>
 Concept development and project management<br>
 Chapman University
 
-Glynn C. Hulley (he/him)<br>
+Glynn C. Hulley<br>
 [glynn.hulley@jpl.nasa.gov](mailto:glynn.hulley@jpl.nasa.gov)<br>
 Advised on technical and scientific requirements for application and mission integration.<br>
 NASA Jet Propulsion Laboratory 329G
 
-Nimrod Carmon (he/him)<br>
+Nimrod Carmon<br>
 [nimrod.carmon@jpl.nasa.gov](mailto:nimrod.carmon@jpl.nasa.gov)<br>
 Technical contributor for data processing, validation/verification, and hyperspectral resampling<br>
 NASA Jet Propulsion Laboratory 398L
