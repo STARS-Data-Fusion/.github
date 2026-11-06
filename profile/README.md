@@ -1,7 +1,7 @@
 # STARS
 
 Spatial Timeseries for Automated high-Resolution multi-Sensor data fusion (STARS)
-
+<!-- 
 Margaret C. Johnson (she/her)<br>
 [maggie.johnson@jpl.nasa.gov](mailto:maggie.johnson@jpl.nasa.gov)<br>
 Principal investigator: lead of data fusion methodological development and Julia code implementations.<br>
@@ -36,6 +36,7 @@ Nimrod Carmon (he/him)<br>
 [nimrod.carmon@jpl.nasa.gov](mailto:nimrod.carmon@jpl.nasa.gov)<br>
 Technical contributor for data processing, validation/verification, and hyperspectral resampling<br>
 NASA Jet Propulsion Laboratory 398L
+-->
 
 ## Abstract
 
